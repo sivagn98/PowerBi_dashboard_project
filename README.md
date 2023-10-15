@@ -13,3 +13,5 @@ To identify the key priorities of data professionals when seeking new job opport
 To provide a comprehensive snapshot of the data professional community, including gender, age, location, education, and ethnicity.
 
 In summary, this Power BI project offers a comprehensive analysis of survey data related to data professionals, aiming to provide actionable insights into the data field and its workforce.
+![image](https://github.com/sivagn98/PowerBi_dashboard_project/assets/118059234/53774287-002d-4a31-bfc8-4a94dc5f5ffd)
+
